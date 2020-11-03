@@ -1,0 +1,215 @@
+{
+  "StudentResults": [
+    {
+      "Name": "Alba Hopper",
+      "WeightedAverageRating": 53.55
+    },
+    {
+      "Name": "Harrison Perez",
+      "WeightedAverageRating": 24.55
+    },
+    {
+      "Name": "Regan Walton",
+      "WeightedAverageRating": 26.55
+    },
+    {
+      "Name": "Freya Barnes",
+      "WeightedAverageRating": 69.65
+    },
+    {
+      "Name": "Shantelle Farrow",
+      "WeightedAverageRating": 65.55
+    },
+    {
+      "Name": "Lillie Alfaro",
+      "WeightedAverageRating": 38.05
+    },
+    {
+      "Name": "Nicky Wickens",
+      "WeightedAverageRating": 29.25
+    },
+    {
+      "Name": "Kathy Foreman",
+      "WeightedAverageRating": 50.150000000000006
+    },
+    {
+      "Name": "Rohan Buckner",
+      "WeightedAverageRating": 42.35
+    },
+    {
+      "Name": "Celeste Blake",
+      "WeightedAverageRating": 77.95
+    },
+    {
+      "Name": "Kristy Mendez",
+      "WeightedAverageRating": 63.0
+    },
+    {
+      "Name": "Cheyenne Almond",
+      "WeightedAverageRating": 57.95
+    },
+    {
+      "Name": "Otto Gregory",
+      "WeightedAverageRating": 45.75
+    },
+    {
+      "Name": "Keiron Owen",
+      "WeightedAverageRating": 38.4
+    },
+    {
+      "Name": "Mehdi Gross",
+      "WeightedAverageRating": 36.35
+    },
+    {
+      "Name": "Mamie Fountain",
+      "WeightedAverageRating": 31.55
+    },
+    {
+      "Name": "Ruben Traynor",
+      "WeightedAverageRating": 16.05
+    },
+    {
+      "Name": "Keeley Derrick",
+      "WeightedAverageRating": 50.099999999999994
+    },
+    {
+      "Name": "Piers Perkins",
+      "WeightedAverageRating": 52.7
+    },
+    {
+      "Name": "Hettie Durham",
+      "WeightedAverageRating": 60.35
+    },
+    {
+      "Name": "Kiyan Shea",
+      "WeightedAverageRating": 40.75
+    },
+    {
+      "Name": "Easton Harvey",
+      "WeightedAverageRating": 38.3
+    },
+    {
+      "Name": "Terri Burnett",
+      "WeightedAverageRating": 22.0
+    },
+    {
+      "Name": "Gareth Fisher",
+      "WeightedAverageRating": 77.15
+    },
+    {
+      "Name": "Fraser Small",
+      "WeightedAverageRating": 41.75
+    },
+    {
+      "Name": "Lukasz Andrews",
+      "WeightedAverageRating": 35.55
+    },
+    {
+      "Name": "Rajveer Watt",
+      "WeightedAverageRating": 60.05
+    },
+    {
+      "Name": "Nabil Greig",
+      "WeightedAverageRating": 47.85
+    },
+    {
+      "Name": "Madina Lee",
+      "WeightedAverageRating": 81.15
+    }
+  ],
+  "Errors": [ "Student 'Gabriele Wall' has incorect input from Math exam." ],
+  "GlobalResults": {
+    "Name": "Global",
+    "SubjectResults": [
+      {
+        "ExamType": "Math",
+        "Average": 47.0,
+        "Median": 45.0,
+        "Modus": [ 32 ]
+      },
+      {
+        "ExamType": "Physics",
+        "Average": 34.0,
+        "Median": 35.0,
+        "Modus": [ 13, 35, 45, 50, 32, 42 ]
+      },
+      {
+        "ExamType": "English",
+        "Average": 66.0,
+        "Median": 68.0,
+        "Modus": [ 78 ]
+      }
+    ]
+  },
+  "GroupResults": [
+    {
+      "Name": "Group1",
+      "SubjectResults": [
+        {
+          "ExamType": "Math",
+          "Average": 43.0,
+          "Median": 45.0,
+          "Modus": [ 60, 25, 12, 86, 55, 32, 13, 66, 45 ]
+        },
+        {
+          "ExamType": "Physics",
+          "Average": 30.0,
+          "Median": 35.0,
+          "Modus": [ 13, 35 ]
+        },
+        {
+          "ExamType": "English",
+          "Average": 64.0,
+          "Median": 68.0,
+          "Modus": [ 78 ]
+        }
+      ]
+    },
+    {
+      "Name": "Group2",
+      "SubjectResults": [
+        {
+          "ExamType": "Math",
+          "Average": 47.0,
+          "Median": 40.0,
+          "Modus": [ 24 ]
+        },
+        {
+          "ExamType": "Physics",
+          "Average": 33.0,
+          "Median": 33.0,
+          "Modus": [ 32 ]
+        },
+        {
+          "ExamType": "English",
+          "Average": 64.0,
+          "Median": 69.0,
+          "Modus": [ 92, 78, 45, 87, 76, 72, 43, 21, 66, 64 ]
+        }
+      ]
+    },
+    {
+      "Name": "Group3",
+      "SubjectResults": [
+        {
+          "ExamType": "Math",
+          "Average": 49.0,
+          "Median": 44.0,
+          "Modus": [ 32 ]
+        },
+        {
+          "ExamType": "Physics",
+          "Average": 38.0,
+          "Median": 39.0,
+          "Modus": [ 55, 42, 23, 12, 61, 37, 29, 50, 9, 64 ]
+        },
+        {
+          "ExamType": "English",
+          "Average": 69.0,
+          "Median": 66.0,
+          "Modus": [ 46, 53, 97, 68, 84, 64, 44, 87, 54, 99 ]
+        }
+      ]
+    }
+  ]
+}
